@@ -12,7 +12,7 @@ This is a game where the player has to get from the bottom left corner to the to
 You must have the Java Runtime Environment to run this.
 
 ###### Donwload JAR:
-Download the JAR file. Navigate to the folder with Jar file on the command line. The use the following command:
+Download the `MineWalkerGame.jar` file. Navigate to the folder with Jar file on the command line. The use the following command:
 
 ```
 $ java -jar MineWalkerGame.jar
