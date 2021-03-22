@@ -16,7 +16,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 /**
  * Contains the board and other elements
- * @author Mason Tolley
+ * @author Stormrunner
  *
  */
 @SuppressWarnings("serial")

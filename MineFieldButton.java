@@ -5,7 +5,7 @@ import javax.swing.JButton;
 
 /**
  * Represents the grid squares on the mine field
- * @author Mason Tolley
+ * @author Stormrunner
  *
  */
 @SuppressWarnings("serial")

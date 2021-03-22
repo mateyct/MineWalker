@@ -7,7 +7,7 @@ import java.util.Random;
  */
 
 /**
- * @author mason.tolley
+ * @author Stormrunner
  * This represents a randomly generated path from one point on a grid to another
  */
 public class RandomWalk implements RandomWalkInterface {

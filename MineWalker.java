@@ -2,7 +2,7 @@ import javax.swing.JFrame;
 
 /**
  * Represents a minewalker game where the player navigates a grid
- * @author Mason Tolley
+ * @author Stormrunner
  *
  */
 public class MineWalker {

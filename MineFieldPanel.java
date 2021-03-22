@@ -14,7 +14,7 @@ import javax.swing.Timer;
 
 /**
  * Represents the mine field
- * @author Mason Tolley
+ * @author Stormrunner
  *
  */
 @SuppressWarnings("serial")
