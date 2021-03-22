@@ -1,0 +1,1 @@
+javac MineWalker.java&&javaMineWalker
