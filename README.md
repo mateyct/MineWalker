@@ -11,19 +11,10 @@ This is a game where the player has to get from the bottom left corner to the to
 
 You must have the Java Runtime Environment to run this.
 
-###### Donwload JAR:
-Download the `MineWalkerGame.jar` file. Navigate to the folder with Jar file on the command line. The use the following command:
+Download the newest release. Navigate to the folder with JAR file on the command line. The use the following command:
 
 ```
 $ java -jar MineWalkerGame.jar
-```
-
-###### Compile yourself:
-You must use this way if you want sound effects. Navigate to the directory that contains the Java files on the command line. To compile and run it, use the following commands:
-
-```
-$ javac MineWalker.java
-$ java MineWalker
 ```
 
 Then enjoy the game.
