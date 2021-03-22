@@ -9,7 +9,7 @@ This is a game where the player has to get from the bottom left corner to the to
 
 ## Compiling and Using
 
-You must have the Java Runtime Environment to run this.
+You must have the at least JDK version 14 to run this.
 
 Download the newest release. Navigate to the folder with JAR file on the command line. The use the following command:
 
