@@ -19,7 +19,7 @@ $ java -jar MineWalkerGame.jar
 ```
 
 ###### Compile yourself:
-Navigate to the directory that contains the Java files on the command line. To compile and run it, use the following commands:
+You must use this way if you want sound effects. Navigate to the directory that contains the Java files on the command line. To compile and run it, use the following commands:
 
 ```
 $ javac MineWalker.java
